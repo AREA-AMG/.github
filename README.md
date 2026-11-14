@@ -39,6 +39,7 @@ Unser Ziel ist es, moderne, zuverlässige und erweiterbare Anwendungen zu entwic
 | Account | Funktion | GitHub |
 |---|---|---|
 | **AREA-AMG** | Offizielle GitHub-Organisation | [@AREA-AMG](https://github.com/AREA-AMG) |
+| **AREA-AMG-Developments** | Offizieller Entwicklungsaccount | [@AREA-AMG-Developments](https://github.com/AREA-AMG-Developments) |
 | **Shadow0Flo** | Gründer und Entwickler | [@Shadow0Flo](https://github.com/Shadow0Flo) |
 
 Weitere offizielle Entwicklungsaccounts können zukünftig ergänzt werden.
@@ -193,6 +194,7 @@ Noch keine öffentlichen Änderungseinträge veröffentlicht.
 |---|---|
 | 🏢 GitHub-Organisation | [github.com/AREA-AMG](https://github.com/AREA-AMG) |
 | 📚 Informations-Repository | [AREA-INFO](https://github.com/AREA-AMG/AREA-INFO) |
+| 💻 Entwicklungsaccount | [AREA-AMG-Developments](https://github.com/AREA-AMG-Developments) |
 | 👤 Gründer | [Shadow0Flo](https://github.com/Shadow0Flo) |
 
 ---
