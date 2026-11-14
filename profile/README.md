@@ -11,7 +11,7 @@
 
 ---
 
-**Willkommen im offiziellen Informations-Repository von AREA-AMG.**
+**Willkommen auf dem offiziellen GitHub-Organisationsprofil von AREA-AMG.**
 
 Hier findest du Informationen über unsere Organisation, unsere Entwicklungsprojekte, die zugehörigen GitHub-Accounts und wichtige Neuigkeiten.
 
@@ -193,19 +193,21 @@ Noch keine öffentlichen Änderungseinträge veröffentlicht.
 | Plattform | Adresse |
 |---|---|
 | 🏢 GitHub-Organisation | [github.com/AREA-AMG](https://github.com/AREA-AMG) |
-| 📚 Informations-Repository | [AREA-INFO](https://github.com/AREA-AMG/AREA-INFO) |
+| 📚 Organisationsprofil-Repository | [.github](https://github.com/AREA-AMG/.github) |
 | 💻 Entwicklungsaccount | [AREA-AMG-Developments](https://github.com/AREA-AMG-Developments) |
 | 👤 Gründer | [Shadow0Flo](https://github.com/Shadow0Flo) |
 
 ---
 
-## ℹ️ Informationen zum Repository
+## ℹ️ Informationen zum Organisationsprofil
 
-Dieses Repository dient ausschließlich der öffentlichen Bereitstellung von Informationen über AREA-AMG und die zugehörigen Entwicklungsprojekte.
+Dieses öffentliche GitHub-Organisationsprofil dient der zentralen Bereitstellung von Informationen über AREA-AMG, unsere Entwicklungsprojekte und die zugehörigen GitHub-Accounts.
 
-Es enthält keine produktiven Anwendungen, Zugangsdaten oder internen Projektdateien.
+Die Inhalte werden über das spezielle GitHub-Repository [.github](https://github.com/AREA-AMG/.github) verwaltet.
 
-Die Inhalte können jederzeit aktualisiert, erweitert oder überarbeitet werden.
+Dieses Repository enthält keine produktiven Anwendungen, Zugangsdaten oder internen Projektdateien.
+
+Die veröffentlichten Informationen können jederzeit aktualisiert, erweitert oder überarbeitet werden.
 
 ---
 
@@ -215,7 +217,7 @@ Die Inhalte können jederzeit aktualisiert, erweitert oder überarbeitet werden.
 
 **Entwicklung. Innovation. Technologie.**
 
-[GitHub](https://github.com/AREA-AMG) · [Projekte](https://github.com/AREA-AMG/AREA-INFO)
+[GitHub](https://github.com/AREA-AMG) · [Projekte](https://github.com/AREA-AMG/.github#-unsere-entwicklungsprojekte)
 
 © AREA-AMG
 
